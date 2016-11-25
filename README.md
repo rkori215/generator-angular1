@@ -1,15 +1,11 @@
-<p align="center">
-  <a href="http://fountainjs.io/">
-    <img alt="FountainJS" src="http://fountainjs.io/assets/imgs/fountain.png" width="200">
-  </a>
-</p>
+
 
 [![Build Status](https://travis-ci.org/FountainJS/generator-fountain-angular1.svg?branch=master)](https://travis-ci.org/FountainJS/generator-fountain-angular1)
 [![codecov](https://codecov.io/gh/FountainJS/generator-fountain-angular1/branch/master/graph/badge.svg)](https://codecov.io/gh/FountainJS/generator-fountain-angular1)
 [![Slack](http://slackin.fountainjs.io/badge.svg)](http://slackin.fountainjs.io/)
 
 
-# Fountain Angular 1 Generator
+# Angular 1 Generator
 
 [![Angular 1](http://fountainjs.io/assets/imgs/angular1.png)](https://docs.angularjs.org/guide)
 
