@@ -56,9 +56,9 @@ node --version && npm --version
 npm install -g yo
 ```
 
-##### Install `generator-fountain-angular1`:
+##### Install `generator-angular1`:
 ```
-npm install -g generator-fountain-angular1
+npm install -g generator-angular1
 ```
 
 
